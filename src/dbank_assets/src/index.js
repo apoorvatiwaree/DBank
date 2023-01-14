@@ -1,4 +1,9 @@
 import { dbank } from "../../declarations/dbank";
+import { Application } from '@splinetool/runtime';
+
+const canvas = document.getElementById('canvas3d');
+const app = new Application(canvas);
+app.load('https://prod.spline.design/NHPic7Ft5x1a64sE/scene.splinecode');
 
 window.addEventListener("load", async function() {
   // console.log("Finished loading");
