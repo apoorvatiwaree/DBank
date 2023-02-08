@@ -14,7 +14,7 @@
     </li>
     <li>Functionalities :
         <ul>
-        <li>Additon and Withdrawl of amount</li>
+        <li>Addition and Withdrawal of amount</li>
         <li>Check Balance</li>
         </ul>
     </li>
